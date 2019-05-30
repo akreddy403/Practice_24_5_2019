@@ -87,11 +87,11 @@
 	</dependencies>
 	
 	<distributionManagement>
-	    <repository>
+	  <!--  <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://ec2-34-209-16-119.us-west-2.compute.amazonaws.com:8081/repository/maven-releases/</url>
-	    </repository>
+	    </repository> -->
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
